@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{EA5F3DCE-CA24-499A-A851-24B55805F10D}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.parallel-distibuted-labs FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="parallel-distibuted-labs">
+            <Node name="parallel-distibuted-labs" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.parallel-distibuted-labs PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

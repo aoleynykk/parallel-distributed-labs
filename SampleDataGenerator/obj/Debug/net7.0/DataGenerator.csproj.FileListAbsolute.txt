@@ -1,0 +1,15 @@
+/Users/oleynyk/parallel-and-distributed-computing/SampleDataGenerator/bin/Debug/net7.0/DataGenerator
+/Users/oleynyk/parallel-and-distributed-computing/SampleDataGenerator/bin/Debug/net7.0/DataGenerator.deps.json
+/Users/oleynyk/parallel-and-distributed-computing/SampleDataGenerator/bin/Debug/net7.0/DataGenerator.runtimeconfig.json
+/Users/oleynyk/parallel-and-distributed-computing/SampleDataGenerator/bin/Debug/net7.0/DataGenerator.dll
+/Users/oleynyk/parallel-and-distributed-computing/SampleDataGenerator/bin/Debug/net7.0/DataGenerator.pdb
+/Users/oleynyk/parallel-and-distributed-computing/SampleDataGenerator/obj/Debug/net7.0/DataGenerator.csproj.AssemblyReference.cache
+/Users/oleynyk/parallel-and-distributed-computing/SampleDataGenerator/obj/Debug/net7.0/DataGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleynyk/parallel-and-distributed-computing/SampleDataGenerator/obj/Debug/net7.0/DataGenerator.AssemblyInfoInputs.cache
+/Users/oleynyk/parallel-and-distributed-computing/SampleDataGenerator/obj/Debug/net7.0/DataGenerator.AssemblyInfo.cs
+/Users/oleynyk/parallel-and-distributed-computing/SampleDataGenerator/obj/Debug/net7.0/DataGenerator.csproj.CoreCompileInputs.cache
+/Users/oleynyk/parallel-and-distributed-computing/SampleDataGenerator/obj/Debug/net7.0/DataGenerator.dll
+/Users/oleynyk/parallel-and-distributed-computing/SampleDataGenerator/obj/Debug/net7.0/refint/DataGenerator.dll
+/Users/oleynyk/parallel-and-distributed-computing/SampleDataGenerator/obj/Debug/net7.0/DataGenerator.pdb
+/Users/oleynyk/parallel-and-distributed-computing/SampleDataGenerator/obj/Debug/net7.0/DataGenerator.genruntimeconfig.cache
+/Users/oleynyk/parallel-and-distributed-computing/SampleDataGenerator/obj/Debug/net7.0/ref/DataGenerator.dll

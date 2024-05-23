@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/oleynyk/Projects/parallel-distibuted-labs/parallel-distibuted-labs.csproj": {}
+    "/Users/oleynyk/parallel-distributed-labs/parallel-distibuted-labs/parallel-distibuted-labs.csproj": {}
   },
   "projects": {
-    "/Users/oleynyk/Projects/parallel-distibuted-labs/parallel-distibuted-labs.csproj": {
+    "/Users/oleynyk/parallel-distributed-labs/parallel-distibuted-labs/parallel-distibuted-labs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/oleynyk/Projects/parallel-distibuted-labs/parallel-distibuted-labs.csproj",
+        "projectUniqueName": "/Users/oleynyk/parallel-distributed-labs/parallel-distibuted-labs/parallel-distibuted-labs.csproj",
         "projectName": "parallel-distibuted-labs",
-        "projectPath": "/Users/oleynyk/Projects/parallel-distibuted-labs/parallel-distibuted-labs.csproj",
+        "projectPath": "/Users/oleynyk/parallel-distributed-labs/parallel-distibuted-labs/parallel-distibuted-labs.csproj",
         "packagesPath": "/Users/oleynyk/.nuget/packages/",
-        "outputPath": "/Users/oleynyk/Projects/parallel-distibuted-labs/obj/",
+        "outputPath": "/Users/oleynyk/parallel-distributed-labs/parallel-distibuted-labs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/oleynyk/.nuget/NuGet/NuGet.Config"

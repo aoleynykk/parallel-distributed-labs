@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "44lPf+Vk5n1a/InocRHbcgCbXi4Lgba7fsc5HUt5REpyFd4anwJOYZZ8I61F09Jmafh3Z2gb475EbOwthvTkUw==",
+  "dgSpecHash": "oqQ/C6rUR4MD7x17ZPcYeC57XEqPuY7P14GJX9O+SdphudS7By1+WclIe7qTourBPzTO092O98f3ARPDaOLKew==",
   "success": true,
-  "projectFilePath": "/Users/oleynyk/Projects/parallel-distibuted-labs/parallel-distibuted-labs.csproj",
+  "projectFilePath": "/Users/oleynyk/parallel-distributed-labs/parallel-distibuted-labs/parallel-distibuted-labs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

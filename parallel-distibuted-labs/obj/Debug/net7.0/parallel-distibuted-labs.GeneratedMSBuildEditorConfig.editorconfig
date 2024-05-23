@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = parallel_distibuted_labs
-build_property.ProjectDir = /Users/oleynyk/Projects/parallel-distibuted-labs/
+build_property.ProjectDir = /Users/oleynyk/parallel-distributed-labs/parallel-distibuted-labs/
