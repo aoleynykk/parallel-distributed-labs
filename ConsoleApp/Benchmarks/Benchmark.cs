@@ -3,6 +3,7 @@ using FormulaCalculator.Implementations.laboratory_1;
 using FormulaCalculator.Implementations.laboratory_2;
 using FormulaCalculator.Implementations.laboratory_3;
 using FormulaCalculator.Implementations.laboratory_4;
+using FormulaCalculator.Implementations.laboratory_5;
 using FormulaCalculator.Interfaces;
 using SampleDataGenerator;
 
@@ -12,6 +13,7 @@ public class Benchmark
 {
     private FormulaCalculatorLabThree _calcL3;
     private FormulaCalculatorLabFour _calcL4;
+    private FormulaCalculatorLabFifth _calcL5;
 
     public Benchmark()
     {
@@ -20,6 +22,7 @@ public class Benchmark
 
         _calcL3 = new FormulaCalculatorLabThree(sampleData!, 5);
         _calcL4 = new FormulaCalculatorLabFour(sampleData!, 5);
+        _calcL5 = new FormulaCalculatorLabFifth(sampleData!, 5);
     }
 
     [Benchmark]
@@ -44,5 +47,18 @@ public class Benchmark
     public void CalcFormulaBLab4()
     {
         _calcL4.CalcFormulaB();
+    }
+
+    // Add benchmarks for Lab 5
+    [Benchmark]
+    public void CalcFormulaALab5()
+    {
+        _calcL5.CalcFormulaA();
+    }
+
+    [Benchmark]
+    public void CalcFormulaBLab5()
+    {
+        _calcL5.CalcFormulaB();
     }
 }

@@ -18,10 +18,12 @@
       <None Remove="Implementations\lab-2\" />
       <None Remove="Implementations\lab-3\" />
       <None Remove="Implementations\lab-4\" />
+      <None Remove="Implementations\lab-5\" />
     </ItemGroup>
     <ItemGroup>
       <Folder Include="Implementations\lab-2\" />
       <Folder Include="Implementations\lab-3\" />
       <Folder Include="Implementations\lab-4\" />
+      <Folder Include="Implementations\lab-5\" />
     </ItemGroup>
 </Project>
